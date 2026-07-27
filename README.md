@@ -2,7 +2,7 @@
 
 This project explores a Stroop-like effect involving object-color association. The experiment was implemented in Processing, and the collected trial results can be analyzed with Python scripts.
 
-For more details, see the project report: [Exploring the Stroop Effect of Object-Color Association.pdf](Exploring%20the%20Stroop%20Effect%20of%20Object-Color%20Association.pdf)
+For more details, see the paper: [Exploring the Stroop Effect of Object-Color Association.pdf](Exploring%20the%20Stroop%20Effect%20of%20Object-Color%20Association.pdf)
 
 ## Project Structure
 
